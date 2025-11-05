@@ -81,7 +81,7 @@ Personal security assessment
 
 ## RESULTS:
 [image alt](https://github.com/devyani-oops/Password_Strength_Analyzer/blob/95c604e2b9bb3b1bb8b0b46d1795468bd6857187/Screenshot%202025-11-05%20130518.png)
-[image alt]()
+[image alt](https://github.com/devyani-oops/Password_Strength_Analyzer/blob/07c306a1e91988bed4261830a97ec9578c6625ec/Screenshot%202025-11-05%20130531.png)
 [image alt]()
 
 
