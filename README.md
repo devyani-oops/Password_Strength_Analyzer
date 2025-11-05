@@ -80,7 +80,7 @@ Custom wordlist generation for authorized penetration testing
 Personal security assessment
 
 ## RESULTS:
-[image alt]()
+[image alt](https://github.com/devyani-oops/Password_Strength_Analyzer/blob/95c604e2b9bb3b1bb8b0b46d1795468bd6857187/Screenshot%202025-11-05%20130518.png)
 [image alt]()
 [image alt]()
 
